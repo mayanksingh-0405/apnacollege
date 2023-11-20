@@ -1,2 +1,3 @@
 # apnacollege
-This is my first GIT repository.
+## This is my first GIT repository.
+### Author - Mayank Singh
